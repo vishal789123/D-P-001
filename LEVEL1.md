@@ -1,4 +1,4 @@
-## Task 1 - Isometric and Orthographic Projections
+## Task 1 - Isometric and Orthographic Projections.
 
 1. Draw orthographic projections of the following isometric projections
  
