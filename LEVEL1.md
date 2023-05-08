@@ -45,7 +45,7 @@ https://www.iqsdirectory.com/articles/hinges/anatomy-of-hinge.jpg
 
 Measurements
 
-1. Length of the hinge - 100mm
+1. Length of the hinge - 105mm
 
 2. Hinge width - 50mm 
 
