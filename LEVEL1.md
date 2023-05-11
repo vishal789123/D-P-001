@@ -1,7 +1,8 @@
 ## Task 1 - Isometric and Orthographic Projections.
 
 1. Draw orthographic projections of the following isometric projections
- 
+ ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/0a17e7fe-c209-435e-9e78-10bf483d44e1)
+
  https://demonstrations.wolfram.com/FractalTetrahedron/img/popup_1.png 
 
 (Fractal tetrahedron of sides 60mm )
