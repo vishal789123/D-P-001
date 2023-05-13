@@ -1,4 +1,5 @@
 # LEVEL 2
+## M E C H A N I C A L
 ## Assembly & Simulation
 Gripper design, assembly and simulation.
 Design the parts, assemble them as instructed thereof, and simulate them in Fusion360.
@@ -40,3 +41,16 @@ Furnish a detailed report for the same.
 ### 3D Printing
 3d print the parts designed in the task one and get it assembled 
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/1487669d-bb95-4dc0-9fd7-a07b5da97501)
+## E L E C T R O N I S
+### Create A Voltage Multiplier!!
+Voltage multiplier using capacitor pumps and a 555 Timer IC.
+To do:
+Pump up 9V to 18V at first, then cascade the pump to get 27V.
+Use TinkerCad to design the required circuit
+Resources:
+https://www.youtube.com/results?search_query=voltage+multiplier.
+### Create a circuit that provides short-circuit protection.
+A circuit when shorted can cause serious damage to the equipment. Create a circuit that provides the necessary protection.
+
+Resources
+https://www.instructables.com/How-to-Make-Short-Circuit-Protection-Circuit/
