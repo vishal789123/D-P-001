@@ -1,128 +1,74 @@
-## Task 1 - Isometric and Orthographic Projections.
+# LEVEL 1
+## I. Introduction to Engineering Drawing
+### Isometric & Orthographic Projections
+![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/0fc33d8c-d900-417a-95c9-0765b4019cda)
 
-1. Draw orthographic projections of the following isometric projections
- ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/0a17e7fe-c209-435e-9e78-10bf483d44e1)
+Using a mini drafter, draw at least 7 models as illustrated, and furnish them to the lab.
 
- https://demonstrations.wolfram.com/FractalTetrahedron/img/popup_1.png 
+Thoroughly review the provided PDF and illustrate seven orthographic projections accordingly.
+https://drive.google.com/file/d/11tY1ARdFKNEoMBMrf_mybfLTuzmxevpZ/view?usp=sharing
 
-(Fractal tetrahedron of sides 60mm )
+Thoroughly review the provided PDF and illustrate seven Isometric projections accordingly.
+https://drive.google.com/file/d/12XvAr_lD9NC-aNlG5I-07V3eAKhnGGha/view?usp=sharing
 
-2. Draw isometric projection of a hexagonal nut of sides 60mm and height 80mm, diameter of thread 50mm using a mini drafter on an A2 sheet
+### 2D Drawings in CAD
+![Screenshot 2023-05-12 182944](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/dde8dc20-f3ee-4dc6-84de-763d0a099fea)
 
-   Draw isometric projection for the following machine parts.
-  
-   http://blogs.solidworks.com/tech/wp-content/uploads/sites/4/Model-Mania-2015-Phase-1.jpg
+Generate 2D drawings from the designated folder to visually represent the desired design in the Sketcher workspace.
 
-https://blogs.solidworks.com/tech/2022/02/23-years-of-model-mania.html 
+Folder: https://drive.google.com/drive/folders/1qGEs5cemy2DjgBbmVM0f7n7XfrIndvMs?usp=sharing  
 
-## Task 2 - 2D Drafting in CAD
+Youtube link: https://youtu.be/47_zypTqZe0
+### 2D Drafting
+Draw a Level-2 Sierpenski Triangle and generate a drawing sheet with dimensions neatly labelled.
+![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/a7b462aa-7826-4fac-8d30-63128a24db01)
 
-2D drawing on sheet of the following platonic solids using AutoCAD
+### 3D Drafting
+#### Task 1
+Draw an Allen key and generate a labelled drawing sheet for the same.
+Parameters: 
+Length - 55mm
+Width - 20mm
+Size - 3mm
+![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/9b4008ff-43dd-4f57-b96b-dfdd57a3477c)
+![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/cc3da443-13d0-4bcd-b7f7-9c4a270f57e9)
+
+#### Task 2
+With reference to the drawings, 3D draft at least 3 machine parts in Fusion 360.
+
+Folder:https://drive.google.com/drive/folders/1gQuomsJkHP0R7zjmB2OGLx-xAGxk798u?usp=sharing 
+
+Study Material
+https://help.autodesk.com/view/fusion360/ENU/courses/AP-SKETCH-FUNDAMENTALS 
+https://help.autodesk.com/view/fusion360/ENU/courses/AP-SOLID-EXTRUDE
+https://www.youtube.com/watch?v=VAhYn7pKLWs
+https://youtu.be/jmpKpWzhbGQ 
+## 2. 3D Modelling
+#### Solid Modelling
+Design a simple aerofoil for an HTOL aircraft using Fusion360.
+
+#### Surface Modelling: 
+Design a toroidal propellor which is compatible with a 1000kv BLDC Motor available in the lab.
+Reference
+https://youtu.be/mUMkiXwikw4 
+
+#### Sheet Metal
+Design a Postbox for MARVEL using sheet metal.  
+Thickness	- 1mm
+Height	- 1ft
+You will be judged for usability | compatibility | creativity | optimization |
+
+#### Organic Designing using forms
+Design a Hollow vase for MARVEL using the Forms feature in Fusion360.
+Parameters
+Base Width/Diameter - 70mm
+Aperture - 55mm
+Thickness - 2mm
+
+
+## 3. 3D Printing
+A comprehensive understanding of the functioning of 3D printing within the Marvel lab, including aspects such as calibration, control systems, bed temperature, nozzle temperature,loading filament and other relevant factors, is essential.
+Please refer to the provided link to access comprehensive introductory information on the subject of 3D printing.
+
+https://hub.uvcemarvel.in/article/e879cf6c-41ef-44b8-a67f-27248ebe4834 
  
-1. Cube of sides 40mm
-2. Tetrahedron of sides 35mm
-3. octahedron of sides 30mm
-4. Hemisphere of radius 70mm
-
-## Task 3 - 3D drawing 
-
-3D drawing in AutoCAD
-
- 1. Pentagonal pyramid of sides 40mm and height 60mm.
-Hollow Cylinder, diameter 40mm and height 60mm,thickness 2mm.
-
- 2. A hexagonal pyramid of base edges 16mm and height 50mm is placed on a cylinder of radius 50mm.
-
- 3. A triangular prism of sides 30 mm placed a square prism of sides 50mm with equal inclination to the horizontal axis.
-
-*Note : The 3D model must be created from 2D sketches, not ready made objects in software.*
-
-## Task 4 - Design, Assembly and Simulation
-
-Rapid prototyping (3D design and assembly) of a hinge joint using AutoCAD. 
-
-Anatomy of Hinge Joint
-https://www.iqsdirectory.com/articles/hinges/anatomy-of-hinge.jpg 
-
-Measurements
-
-1. Length of the hinge - 105mm
-
-2. Hinge width - 50mm 
-
-3. Leaf width - 25mm
-
-4. Paint clearance - 0.5mm
-
-5. Pin diameter - 15mm
-
-6. Barrel - Outer diameter - 25mm, Inner Diameter - 15.5mm
-
-7. Knuckle length - 30mm
-
-8. Turn angle - 180°
-
-Or
-
-Take measurements of the brass hinges in the old bookshelf outside MARVEL and rapid prototyping of the same using AutoCAD.
-
-## Task 5 - 3D designing of ball and socket joint
-
-3D design and simulation of a simple ball and socket joint 
-
-Reference :
-https://images.app.goo.gl/X7GrEbM3cYKhs7UP9 
-
-Details of a simple ball and socket joint :
-
-1. Diameter of ball - 50mm
-2. Diameter of hemispherical socket - 53mm
-3. Gap - 0.5mm
-4. Length of cylindrical stud - 20mm
-5. Diameter of stud - 8mm
-
-## Task 6 - 3D Printing 
-
-Design a small machine part of your choice within the given dimensions* and 3D print them using Ultimaker Cura. 
-
-(Hint: You can refer Task 4 and Task 5) 
-
-## Task 7 - LED on a Breadboard
- Build a very simple circuit which lights up a single Light Emitting Diode (LED) by clicking [here](https://startingelectronics.org/beginners/start-electronics-now/tut1-breadboard-circuits/).
-
-Once you finish performing the experiment, try lighting up larger LED sequences( 3,4,5 LEDs, etc.)
-The linked article uses AA batteries to power the LED. However, you’ll be using a breadboard power supply, which provides different voltages(5V and 3.3V). Hence the resistor values will change. Find out how to calculate resistor values by clicking [here](https://www.youtube.com/watch?v=QJlzTaTU7LY).
-
-
-## Task 8 - Transistor as a switch
-Learn to operate a transistor as a switch by biasing it appropriately. Click [here](https://circuits-diy.com/how-to-use-a-transistor-bc547-as-a-switch/) to know more!
-
-Explore how a Datasheet plays an important role in understanding the functioning of a device by visiting the "Datasheets are your friends!" resource article.
-
-
-## Task 9 - Flash an LED using a transistor
-Blink an LED using 2 npn transistors, a few resistors and capacitors by clicking [here](https://circuitspedia.com/simple-blinking-led-flasher-circuit-diagram-using-transistors/)
-
-Try playing around with different resistor-capacitor combinations to get different flashing frequencies.
-
-## Task 10 - Darkness detector using LDR
-Create a circuit that turns on an LED when the room is dark. Click [here](http://elonics.in/breadboard-projects/light-sensor-and-darkness-detector-circuit-using-ldr-transistor
-) to know more.
-
-Similarly, design a light detector by biasing the transistor appropriately.
-
-
-Try building the circuit entirely using the circuit diagram. Don’t use the video guide if you don’t need it!
-
-## Task 11 - Convert your drawings on paper to CAD
-Explore the Computer Aided Design tools at your disposal and try to replicate these drawings [link1](https://in.pinterest.com/pin/492649943350394/), [link2](https://in.pinterest.com/pin/19140367154199215/), [link3](https://in.pinterest.com/pin/290341507231609718/).
-
-Once you've successfully completed the above task, let your creativity run wild! Convert a drawing on paper to CAD.
-
-
-## Task 12 - Simple soldering practice
-Practice the soldering activities taught during the hands-on workshop and try to perfect your soldering technique.
-Here's a quick refresher [article](https://www.makerspaces.com/how-to-solder/) to get you started.
-
-
-**Caution:** Handle the soldering equipment with care. Temperatures exceed 200 degrees celsius. Coming in contact may cause severe burns. Make sure to solder in a well ventilated area and avoid breathing in any fumes.
