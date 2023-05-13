@@ -1,4 +1,5 @@
 # LEVEL 1
+# M E C H A N I C A L
 ## I. Introduction to Engineering Drawing
 ### Isometric & Orthographic Projections
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/0fc33d8c-d900-417a-95c9-0765b4019cda)
@@ -71,4 +72,14 @@ A comprehensive understanding of the functioning of 3D printing within the Marve
 Please refer to the provided link to access comprehensive introductory information on the subject of 3D printing.
 
 https://hub.uvcemarvel.in/article/e879cf6c-41ef-44b8-a67f-27248ebe4834 
- 
+
+# E L E C T R O N I C S
+### Make basic gates using TTL logic.
+Make basic AND, OR designs using NPN transistors, using TinkerCAD
+Resource
+### Driving an N-channel MOSFET
+An N-Channel MOSFET is a type of MOSFET in which the channel of the MOSFET is composed of a majority of electrons as current carriers. When the MOSFET is activated and is on, the majority of the current flowing are electrons moving through the channel. 
+
+Use TinkerCAD to get the basic design.
+Resources:
+N-Channel MOSFET Basics (learningaboutelectronics.com)
