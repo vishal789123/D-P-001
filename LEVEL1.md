@@ -1,5 +1,8 @@
 # LEVEL 1
 # M E C H A N I C A L
+### Apply for Autodesk Educational licence
+https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual 
+
 ## I. Introduction to Engineering Drawing
 ### Isometric & Orthographic Projections
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/0fc33d8c-d900-417a-95c9-0765b4019cda)
