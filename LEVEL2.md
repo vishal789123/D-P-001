@@ -41,7 +41,7 @@ Furnish a detailed report for the same.
 ### 3D Printing
 3d print the parts designed in the task one and get it assembled 
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/1487669d-bb95-4dc0-9fd7-a07b5da97501)
-## E L E C T R O N I S
+## E L E C T R O N I C S
 ### Create A Voltage Multiplier!!
 Voltage multiplier using capacitor pumps and a 555 Timer IC.
 To do:
