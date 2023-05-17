@@ -79,7 +79,8 @@ https://hub.uvcemarvel.in/article/e879cf6c-41ef-44b8-a67f-27248ebe4834
 # E L E C T R O N I C S
 ### Make basic gates using TTL logic.
 Make basic AND, OR designs using NPN transistors, using TinkerCAD
-Resource
+Resource:
+https://www.youtube.com/watch?v=OWlD7gL9gS0&t=524s
 ### Driving an N-channel MOSFET
 An N-Channel MOSFET is a type of MOSFET in which the channel of the MOSFET is composed of a majority of electrons as current carriers. When the MOSFET is activated and is on, the majority of the current flowing are electrons moving through the channel. 
 
