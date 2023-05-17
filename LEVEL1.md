@@ -85,5 +85,5 @@ https://www.youtube.com/watch?v=OWlD7gL9gS0&t=524s
 An N-Channel MOSFET is a type of MOSFET in which the channel of the MOSFET is composed of a majority of electrons as current carriers. When the MOSFET is activated and is on, the majority of the current flowing are electrons moving through the channel. 
 
 Use TinkerCAD to get the basic design.
-Resources:
-N-Channel MOSFET Basics (learningaboutelectronics.com)
+Resources:http://www.learningaboutelectronics.com/Articles/N-Channel-MOSFETs
+
