@@ -1,4 +1,10 @@
 # LEVEL 1
+## Introductory Module
+### Fundamentals of CAD
+To successfully complete the other tasks at hand, it is essential that you have a good understanding of the concepts and ideas presented in the provided PDF document. We strongly recommend that you read the document thoroughly and make sure that you have a solid grasp of the information it contains before proceeding with the other tasks.
+https://drive.google.com/file/d/1_AMMsWewL0sAlRoD_eP7sz8Rmb6gJMfO/view?usp=sharing
+
+![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/3c298f0b-356b-40db-9cec-7a15caaf17d7)
 # M E C H A N I C A L
 ### Apply for Autodesk Educational licence
 https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual 
