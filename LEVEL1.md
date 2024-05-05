@@ -98,6 +98,59 @@ The dimensions are 9*7*8 cm
        https://youtu.be/HMtLqm5TkGE?si=7eEedOBfIWkW4O1J
        https://youtu.be/FeCzb8eVsRw?si=gHwdmpaGBs9kL820
 
+## 6. Prerequisite for assembly in Fusion 360
+Learn about the difference between bodies and components in Fusion360.
+
+Resource:
+
+[   https://youtu.be/46UNmpQdbVc?si=kbC8jYi_Fd4sMaNZ](https://www.youtube.com/watch?si=kbC8jYi_Fd4sMaNZ&v=46UNmpQdbVc&feature=youtu.be)
+
+https://www.youtube.com/watch?v=TzG2deElWqI
+
+## 7. Spur  Gear Design
+Your task is to design a spur gear based on the provided specifications.
+Create a 3D CAD model of the spur gear using Fusion 360. Ensure    that the model accurately represents the designed gear, including tooth profiles, dimensions, and other relevant features.
+
+Specifications:
+
+Gear Ratio: 2:1 (Input gear has 20 teeth, output gear has 40 teeth)
+
+Module (m): 3 mm
+
+Pressure Angle (α): 20 degrees
+
+Material: Steel
+
+Include calculations and animate the gears in the work environment.
+
+Resource:
+https://youtu.be/8bml2pK6Ra0?si=xWxtZE8fBVt8VAqV
+
+https://youtu.be/XPhKfwCguLg?si=Zmqt2h0k3ibwVIt7
+
+![image](https://github.com/UVCE-Marvel/D-P-001/assets/145858684/496f68cc-78a1-43d8-b58b-193fb69bed82)
+
+
+
+## 8.Designing a parametric box
+Design a parametric box with threads and also design various lids with snap joints and slide joints.
+      
+Assemble and animate them.The dimensions are 9*7*8 cm
+
+Resource: 
+
+https://youtu.be/KL1aj16ynf4?si=BWiZeOpbvO1XJBST
+
+https://youtu.be/HMtLqm5TkGE?si=7eEedOBfIWkW4O1J
+
+https://youtu.be/FeCzb8eVsRw?si=gHwdmpaGBs9kL820
+
+https://m.youtube.com/watch?v=YCUkFGI3RZI&feature=youtu.be
+
+![image](https://github.com/UVCE-Marvel/D-P-001/assets/145858684/515fef88-8f99-47bb-a90b-2329c2c98dc9)
+
+
+
 
 # E L E C T R O N I C S
 ### Make basic gates using TTL logic.
