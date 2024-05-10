@@ -54,3 +54,33 @@ A circuit when shorted can cause serious damage to the equipment. Create a circu
 
 Resources
 https://www.instructables.com/How-to-Make-Short-Circuit-Protection-Circuit/
+
+### Logic design
+
+Implement and design a full adder using 2x1 Multiplexers to generate sum and carry using open source circuit design software like CircuitVerse and document your implementation table
+
+Resource: https://circuitverse.org/
+
+### Filter Design
+
+ Design a second order band pass filter using IC741 that amplifies the signal to roughly 1.5 times the original signal.Cutoff range between 4kHz and 10kHz. (Use LTspice)
+
+ Resource: https://circuitverse.org/
+
+### Animation and rendering
+  Design a Lego structure in Fusion 360 and use motion studies to animate the entire assembly. Use rendering option in fusion 360 to simulate various environments
+Render the Lego man on a busy street with cobblestone texture.Prefer sunset timing.Try including some Soviet era tanks in the background.
+
+https://www.youtube.com/watch?v=8do5BcIYsxQ
+
+https://www.youtube.com/watch?v=b5RQJEL9_Hk
+
+https://youtu.be/0F4nBoS4b58?si=RJjjqVGcwRv4-zGU
+
+
+
+
+
+
+
+
