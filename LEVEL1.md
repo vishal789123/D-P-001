@@ -149,22 +149,22 @@ https://m.youtube.com/watch?v=YCUkFGI3RZI&feature=youtu.be
 
 
 # E L E C T R O N I C S
-### Make basic gates using TTL logic.
+### 1.Make basic gates using TTL logic.
 Make basic AND, OR designs using NPN transistors, using TinkerCAD
 Resource:
 https://www.youtube.com/watch?v=OWlD7gL9gS0&t=524s
 
-### Driving an N-channel MOSFET
+### 2.Driving an N-channel MOSFET
 An N-Channel MOSFET is a type of MOSFET in which the channel of the MOSFET is composed of a majority of electrons as current carriers. When the MOSFET is activated and is on, the majority of the current flowing are electrons moving through the channel. 
 Use TinkerCAD to get the basic design.
 Resources:http://www.learningaboutelectronics.com/Articles/N-Channel-MOSFETs
 
-### LOGIC DESIGN
+### 3.LOGIC DESIGN
 Implement and design a full adder using 2x1 Multiplexers to generate sum and carry using open source circuit design software like CircuitVerse and document your implementation table
 Link : https://circuitverse.org/
 
-### FILTER DESIGN
+### 4.FILTER DESIGN
 Design a second order band pass filter using IC741 that amplifies the signal to roughly 1.5 times the original signal.Cutoff range between 4kHz and 10kHz. (Use LTspice)
 
-### Matlab OnRamp
+### 5.Matlab OnRamp
 Create a Matlab account and complete the Matlab on Ramp course and obtain the certification.
