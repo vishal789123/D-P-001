@@ -53,6 +53,7 @@ https://help.autodesk.com/view/fusion360/ENU/courses/AP-SKETCH-FUNDAMENTALS
 https://help.autodesk.com/view/fusion360/ENU/courses/AP-SOLID-EXTRUDE
 https://www.youtube.com/watch?v=VAhYn7pKLWs
 https://youtu.be/jmpKpWzhbGQ 
+![part modelling](https://gist.github.com/user-attachments/assets/28d4ae08-9bed-49db-9254-bbb691682b23)
 ## 2. 3D Modelling
 #### Solid Modelling
 Design a simple aerofoil for an HTOL aircraft using Fusion360.Make use of Plug-Ins and add ons to generate a NACA aerofoil. Understand the nomenclature of NACA profile and understand the meaning of those terms. We expect you to understand the basic aspects of a wing design like leading, trailing edge and camber line.
@@ -60,6 +61,9 @@ Design a simple aerofoil for an HTOL aircraft using Fusion360.Make use of Plug-I
 2.[NACA Nomenclature](https://www.youtube.com/watch?v=noJVOpig0Vw)
 3.[Short Tutorial](https://www.youtube.com/watch?v=nuC16wZahsA)
 4.[One more tutorial](https://www.youtube.com/watch?v=nuC16wZahsA)
+![aerofoil](https://gist.github.com/user-attachments/assets/92111829-c648-411c-b8fd-c4d98b867093)
+3c214153)
+
 
 #### Surface Modelling: 
 Understand what is a toroidal propellor and what is it's necessity or use.Take an introductory course or go through a playlist explaining forms feature in Fusion 360. Design a toroidal propellor which is compatible with a 1000kv BLDC Motor available in the lab.
@@ -67,6 +71,8 @@ Reference
 1.[Introduction to Forms](https://youtu.be/mUMkiXwikw4)
 2.[What is a Toroidal Propellor?](https://www.youtube.com/watch?v=E8L8I0dLh_o)
 2.[Toroidal Propellor Modelling](https://www.youtube.com/watch?v=2unQqheGp-Q)
+![toroidal prop](https://gist.github.com/user-attachments/assets/ae7a8dfb-6dfa-4289-85ea-b5a3
+
 
 #### Sheet Metal
 Design a Postbox for MARVEL using sheet metal environment in Fusion 360.  
@@ -86,6 +92,9 @@ Thickness - 2mm
 Resource
 1.[Forms introduction](https://www.youtube.com/watch?v=FTLb_tus4F4)
 
+![vase](https://gist.github.com/user-attachments/assets/7593463c-2bd3-4b8a-9044-8ff976552c18)
+
+
 ## 3. Prerequisite for assembly in Fusion 360
 Learn about the difference between bodies and components in Fusion360.
 Resource:
@@ -102,6 +111,7 @@ Resources:
 2.[Quick Return Mechanism](https://www.youtube.com/watch?v=N1SyrV8Qr8Y)
 3.[Geneva Wheel Mechanism](https://www.youtube.com/watch?v=OtJ_bytLdRs)
 4.[Ratchet and Pawl Meechanism](https://www.youtube.com/watch?v=TbgPr0gt-wA)
+![mechanism](https://gist.github.com/user-attachments/assets/0f0c860e-ca50-4eff-8b39-8278ce311f6c)
 
 ## 5. Spur  Gear Design
 Your task is to design a spur gear based on the provided specifications.
@@ -124,7 +134,7 @@ https://youtu.be/8bml2pK6Ra0?si=xWxtZE8fBVt8VAqV
 
 https://youtu.be/XPhKfwCguLg?si=Zmqt2h0k3ibwVIt7
 
-![image](https://github.com/UVCE-Marvel/D-P-001/assets/145858684/496f68cc-78a1-43d8-b58b-193fb69bed82)
+![spur gear](https://gist.github.com/user-attachments/assets/e94a3f13-d07a-4bd9-8f3c-db108f4693b0)
 
 
 
@@ -143,7 +153,7 @@ https://youtu.be/FeCzb8eVsRw?si=gHwdmpaGBs9kL820
 
 https://m.youtube.com/watch?v=YCUkFGI3RZI&feature=youtu.be
 
-![image](https://github.com/UVCE-Marvel/D-P-001/assets/145858684/515fef88-8f99-47bb-a90b-2329c2c98dc9)
+![parametric boxes](https://gist.github.com/user-attachments/assets/fec87302-8673-452d-9738-af3c831439f4)
 
 
 
@@ -168,3 +178,4 @@ Design a second order band pass filter using IC741 that amplifies the signal to 
 
 ### 5.Matlab OnRamp
 Create a Matlab account and complete the Matlab on Ramp course and obtain the certification.
+![MATLAB](https://gist.github.com/user-attachments/assets/d54955be-4776-4b04-8ed7-92392f3a65c1)
