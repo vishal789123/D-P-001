@@ -16,6 +16,7 @@ Resources:
 ● [Types of 3D printing](https://formlabs.com/asia/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/)
 
 (Note this task is to be done under coordinator supervision.)
+![3dprinter](https://gist.github.com/user-attachments/assets/6339d1a8-82d4-4631-8fd6-af7d77de983f)
 
 
 ## TASK 2: API
@@ -172,10 +173,10 @@ Task Description: Study the datasheet of any one of the above and write a report
 
 Familiarise yourself with what Virtual Reality is. Make a detailed study about what's the difference between VR and AR. Mention about the trends in the space and technology stack being developed. Make about Indian companies in this space. Make the report with detail. Using generative AI to generate this study can lead to disqualification.
 
-![image](https://github.com/UVCE-Marvel/EV-RE-001/assets/145858684/f7729f5c-24cd-471f-b6b9-2e3809eae710)
+![vrlol](https://gist.github.com/user-attachments/assets/f9c1c57b-5861-4ffb-9c2b-31f01f184531)
 
 ## Task 18: Hands on experience with VR
 
 Determine your batch with the coordinator and attend an introductory offline session on the available VR headset in lab i.e, HP Reverb G2. Familiarize yourself with sketching in 3D with gravity sketch. Use the tutorial menu to design a bike with a mannequin positioned on it. The candidate is expected to learn about using all the tools in the environment which include using various brush strokes, line tool, curve tool, shapes, mirroring, manipulating and resizing objects, changing sketching hands on the controller and using the align tool.
 
-![image](https://github.com/UVCE-Marvel/EV-RE-001/assets/145858684/f0ca6602-0ff3-49a4-9360-2a7db9face3c)
+![GR](https://gist.github.com/user-attachments/assets/87fc73e7-478a-4854-9ab4-123cd02be94e)
