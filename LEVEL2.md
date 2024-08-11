@@ -67,6 +67,10 @@ Resource: https://circuitverse.org/
 
  Resource: https://circuitverse.org/
 
+ ##Complete the Simulink and Matlab onRamp Course and get certified
+ Matlab offers a Simulink and Matlab introductory course complete these courses to get a basic understanding of Matlab to implement in your projects
+ Resources : Matlab Courses - https://matlabacademy.mathworks.com/?page=1&sort=featured
+
 ### Animation and rendering
   Design a Lego structure in Fusion 360 and use motion studies to animate the entire assembly. Use rendering option in fusion 360 to simulate various environments
 Render the Lego man on a busy street with cobblestone texture.Prefer sunset timing.Try including some Soviet era tanks in the background.
