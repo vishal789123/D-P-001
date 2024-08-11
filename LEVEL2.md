@@ -15,19 +15,20 @@ Study Material
 https://www.youtube.com/watch?v=-rOQBDObyC4 
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/9b67006e-550b-4ca5-aaef-e1b2cde4573d)
 ## Generative Design: Generative Design
-Using Fusion360, import a sample file with reference to this link
+Using Fusion360, import a sample file with reference to this link or make any structure or model using Generative design environment in Fusion 360.
 generate an automated model for the same using generative design.
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/7154cf99-c92e-4328-ba7d-8df21d3dca08)
 
 Study Material
-[Free Generative Design — Beginner Fusion 360 Tutorial](https://www.youtube.com/watch?v=PSSt8wswNJQ)
-[Generative Design for Everyone? Meet Automated Modeling From Autodesk | Engineering.com ](https://www.engineering.com/story/generative-design-for-everyone-meet-automated-modeling-from-autodesk)
-[What is Generative Design | Tools Software | Autodesk](https://www.autodesk.com/solutions/generative-design)
-[A Beginner’s Guide to Generative Design | PTC. ](https://www.ptc.com/en/blogs/cad/beginner-guide-generative-design#:~:text=Generative%20design%20is%20a%20technologhttps://www.ptc.com/en/blogs/cad/beginner-guide-generative-design#:~:text=Generative%20design%20is%20a%20technology,designs%20that%20meet%20those%20requirementsy,designs%20that%20meet%20those%20requirements)
-[The Future of Making Things: Generative Design ](https://www.youtube.com/watch?v=E2SxqUvtpIk)
-[Generative Design ](https://www.youtube.com/watch?v=vtfNlWEJxw4)
-[Generative Design in Fusion 360 ](https://www.youtube.com/watch?v=jvSMCkjTYLE)
+1.[Free Generative Design — Beginner Fusion 360 Tutorial](https://www.youtube.com/watch?v=PSSt8wswNJQ)
+2.[Generative Design for Everyone? Meet Automated Modeling From Autodesk | Engineering.com ](https://www.engineering.com/story/generative-design-for-everyone-meet-automated-modeling-from-autodesk)
+3.[What is Generative Design | Tools Software | Autodesk](https://www.autodesk.com/solutions/generative-design)
+4.[A Beginner’s Guide to Generative Design | PTC. ](https://www.ptc.com/en/blogs/cad/beginner-guide-generative-design#:~:text=Generative%20design%20is%20a%20technologhttps://www.ptc.com/en/blogs/cad/beginner-guide-generative-design#:~:text=Generative%20design%20is%20a%20technology,designs%20that%20meet%20those%20requirementsy,designs%20that%20meet%20those%20requirements)
+5.[The Future of Making Things: Generative Design ](https://www.youtube.com/watch?v=E2SxqUvtpIk)
+6.[Generative Design ](https://www.youtube.com/watch?v=vtfNlWEJxw4)
+7.[Generative Design in Fusion 360 ](https://www.youtube.com/watch?v=jvSMCkjTYLE)
 https://all3dp.com/2/fusion-360-generative-design-tutorial/ 
+8.[Tutorial for Generative design in Fusion 360](https://www.youtube.com/watch?v=sps-OR60fVU&list=PLEzzQIuBvBkr7tNcgERS9IIxLSPbb8A6M)
 ## Prototyping
 ### Sourcing & Materials Selection
 Create a list of inventory required to make an electric bicycle
@@ -38,9 +39,16 @@ Max range	= 50km per charge
 Furnish a detailed report for the same.
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/50707c72-9377-43ef-813b-d4f048d5a13d)
 
-### 3D Printing
-3d print the parts designed in the task one and get it assembled 
-![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/1487669d-bb95-4dc0-9fd7-a07b5da97501)
+### Animation and rendering
+  Design a Lego structure in Fusion 360 and use motion studies to animate the entire assembly. Use rendering option in fusion 360 to simulate various environments
+Render the Lego man on a busy street with cobblestone texture.Prefer sunset timing.Try including some Soviet era tanks in the background.
+
+https://www.youtube.com/watch?v=8do5BcIYsxQ
+
+https://www.youtube.com/watch?v=b5RQJEL9_Hk
+
+https://youtu.be/0F4nBoS4b58?si=RJjjqVGcwRv4-zGU
+
 ## E L E C T R O N I C S
 ### Create A Voltage Multiplier!!
 Voltage multiplier using capacitor pumps and a 555 Timer IC.
@@ -67,19 +75,10 @@ Resource: https://circuitverse.org/
 
  Resource: https://circuitverse.org/
 
- ## Complete the Simulink and Matlab onRamp Course and get certified
+ ## Complete the Simulink and Stateflow onRamp Course and get certified
  Matlab offers a Simulink and Matlab introductory course complete these courses to get a basic understanding of Matlab to implement in your projects
  Resources : Matlab Courses - https://matlabacademy.mathworks.com/?page=1&sort=featured
 
-### Animation and rendering
-  Design a Lego structure in Fusion 360 and use motion studies to animate the entire assembly. Use rendering option in fusion 360 to simulate various environments
-Render the Lego man on a busy street with cobblestone texture.Prefer sunset timing.Try including some Soviet era tanks in the background.
-
-https://www.youtube.com/watch?v=8do5BcIYsxQ
-
-https://www.youtube.com/watch?v=b5RQJEL9_Hk
-
-https://youtu.be/0F4nBoS4b58?si=RJjjqVGcwRv4-zGU
 
 
 
