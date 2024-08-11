@@ -3,17 +3,17 @@
 ## TASK 1: 3D Printing
 
 Understand the working of a 3D printer, check out the online resources. Understand what's an
-STL file, and then learn to slice it (using ultimaker or creality slicer).Learn about bed
+STL file, and then learn to slice it (using ultimaker or creality slicer).Go through the SOP'S regarding the 3d printer. Learn about bed
 temperature, infill density and other printer settings. Finally get an STL file from the internet, and
 slice it and put it for print.
 
 Resources:
 
-● [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)
+● [Introduction to 3d printer](https://www.youtube.com/watch?v=kM5zRO3n9-Y)
 
 ● [PLA settings](https://standardprintco.com/read/pla-filament-printing-guide-how-to-succeed-printing-pla-and-troubleshooting-common-problems-step-by-step)
 
-● [How printer works](https://www.makeuseof.com/tag/what-is-3d-printing-and-how-exactly-does-it-work/aa/)
+● [Types of 3D printing](https://formlabs.com/asia/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/)
 
 (Note this task is to be done under coordinator supervision.)
 
