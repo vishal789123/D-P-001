@@ -155,7 +155,17 @@ https://m.youtube.com/watch?v=YCUkFGI3RZI&feature=youtu.be
 
 ![parametric boxes](https://gist.github.com/user-attachments/assets/fec87302-8673-452d-9738-af3c831439f4)
 
+https://hub.uvcemarvel.in/article/e879cf6c-41ef-44b8-a67f-27248ebe4834 
 
+### 4. Spur Gear
+
+Your task is to design a spur gear based on provided specifications.
+Create a 3D CAD model of the spur gear using a software tool of your choice. Ensure    that the model accurately represents the designed gear, including tooth profiles, dimensions, and other relevant features
+Specifications:
+Gear Ratio: 2:1 (Input gear has 20 teeth, output gear has 40 teeth)
+Module (m): 3 mm
+Pressure Angle (α): 20 degrees
+Material: Steel
 
 
 # E L E C T R O N I C S
@@ -169,6 +179,7 @@ An N-Channel MOSFET is a type of MOSFET in which the channel of the MOSFET is co
 Use TinkerCAD to get the basic design.
 Resources:http://www.learningaboutelectronics.com/Articles/N-Channel-MOSFETs
 
+### Design a second order band pass filter using IC741 that amplifies the signal to roughly 1.5 times the original signal.Cutoff range between 4kHz and 10kHz. (Use LTspice)
 ### 3.LOGIC DESIGN
 Implement and design a full adder using 2x1 Multiplexers to generate sum and carry using open source circuit design software like CircuitVerse and document your implementation table
 Link : https://circuitverse.org/
