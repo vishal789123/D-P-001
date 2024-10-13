@@ -176,6 +176,22 @@ Link : https://circuitverse.org/
 ### 4.FILTER DESIGN
 Design a second order band pass filter using IC741 that amplifies the signal to roughly 1.5 times the original signal.Cutoff range between 4kHz and 10kHz. (Use LTspice)
 
+
 ### 5.Matlab OnRamp
 Create a Matlab account and complete the Matlab on Ramp course and obtain the certification.
 ![MATLAB](https://gist.github.com/user-attachments/assets/d54955be-4776-4b04-8ed7-92392f3a65c1)
+
+### 6.Design and Implement a 4-bit ALU
+
+Your task is to design and implement a **4-bit Arithmetic** Logic Unit (ALU) in [CircuitVerse](https://circuitverse.org/). The ALU should perform the following operations: **addition, subtraction (using 2’s complement), and logical operations (AND, OR, XOR)**. You must also design a **control unit** to select the desired operation based on input signals and display the result along with any carry/overflow flags when applicable.
+
+Start by creating a 4-bit adder using basic logic gates, ensuring correct handling of carry bits. Extend this design to support subtraction by using 2’s complement, and then implement the logical functions (AND, OR, XOR) with the same 4-bit inputs. The ALU must be efficient in terms of gate usage and scalable for future expansion. **Bonus challenge:** Add a feature to invert all bits of a 4-bit input (negation).
+
+#### Resources:
+1. [Digital Logic Gates](http://www.youtube.com/watch?v=JQBRzsPhw2w)
+2. [Full Adder Circuit](http://www.youtube.com/watch?v=ecn-8iGDRSo)
+3. [How to Create a 4-Bit Adder](http://www.youtube.com/watch?v=NO7Gt8IDSGA)
+4. [2's Complement for Subtraction](http://www.youtube.com/watch?v=vfY7bN_3VKw)
+5. [ALU Design and Implementation](http://www.youtube.com/watch?v=h8PAobl4xUk)
+6. [Control Unit Basics](https://www.geeksforgeeks.org/introduction-of-control-unit-and-its-design/)    
+7. [Building a Basic ALU](https://www.youtube.com/watch?v=dYZ-Hwbcnq4)
