@@ -3,19 +3,20 @@
 ## TASK 1: 3D Printing
 
 Understand the working of a 3D printer, check out the online resources. Understand what's an
-STL file, and then learn to slice it (using ultimaker or creality slicer).Learn about bed
+STL file, and then learn to slice it (using ultimaker or creality slicer).Go through the SOP'S regarding the 3d printer. Learn about bed
 temperature, infill density and other printer settings. Finally get an STL file from the internet, and
 slice it and put it for print.
 
 Resources:
 
-● [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)
+● [Introduction to 3d printer](https://www.youtube.com/watch?v=kM5zRO3n9-Y)
 
 ● [PLA settings](https://standardprintco.com/read/pla-filament-printing-guide-how-to-succeed-printing-pla-and-troubleshooting-common-problems-step-by-step)
 
-● [How printer works](https://www.makeuseof.com/tag/what-is-3d-printing-and-how-exactly-does-it-work/aa/)
+● [Types of 3D printing](https://formlabs.com/asia/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/)
 
 (Note this task is to be done under coordinator supervision.)
+![3dprinter](https://gist.github.com/user-attachments/assets/6339d1a8-82d4-4631-8fd6-af7d77de983f)
 
 
 ## TASK 2: API
@@ -98,12 +99,17 @@ Refer to the linked article for further details
 
 ## TASK 9: Tinkercad
 
-Create a tinkercad account, get familiar with the application, understand the example circuits
-given and simulate the following using ultrasonic/infrared sensors, estimate the distance
-between an obstacle and the sensor. Display the results on a LCD screen.
-
-[Resource Article](https://www.geeksforgeeks.org/distance-measurement-using-ultrasonic-sensor-and-arduino/)
+Create a tinkercad account, get familiar with the application, understand the example circuits given and simulate a simple circuit using an ultrasonic sensor to estimate the distance between an obstacle and the sensor. Display the results on the serial monitor.
  
+Create a radar system utilising an ultrasonic sensor and servo motor to detect objects within a certain range. The ultrasonic sensor emits sound waves and measures the time taken for them to bounce back, while the servo motor rotates the sensor to cover a wider area, providing a simple yet effective detection mechanism.
+ RESOURCE: https://youtu.be/NwmcNCvUcDc?si=x2LAYMFiqs1SzLfI
+ TASK OUTCOME: introduction to-
+·        TINKERCAD
+·        Working of ultrasonic sensor and servo motor
+·        Radar technology
+PRECAUTIONS/SAFETY MEASURES- NOT ANY
+
+
 ## TASK 10: Speed Control of DC Motor
 
 Explore basic techniques for controlling DC motors, understand the control DC motors using the
@@ -158,3 +164,19 @@ Take part in any technical event, inter or intra college and submit the issued c
 participation.
 
 Enroll for a MOOC and complete the course.
+## TASK 16: Datasheets report writing:
+Topics: 1)MQ135 Gas sensor 2)L293D motor driver
+Task Description: Study the datasheet of any one of the above and write a report on it. Specify about the ICs used in L293D, PWM, H-bridge etc. In case of MQ 135, specify the calibrations for different gases and the Freundlich Absorption Theorem Graph.
+
+
+## Task 17: Introduction to VR
+
+Familiarise yourself with what Virtual Reality is. Make a detailed study about what's the difference between VR and AR. Mention about the trends in the space and technology stack being developed. Make about Indian companies in this space. Make the report with detail. Using generative AI to generate this study can lead to disqualification.
+
+![vrlol](https://gist.github.com/user-attachments/assets/f9c1c57b-5861-4ffb-9c2b-31f01f184531)
+
+## Task 18: Hands on experience with VR
+
+Determine your batch with the coordinator and attend an introductory offline session on the available VR headset in lab i.e, HP Reverb G2. Familiarize yourself with sketching in 3D with gravity sketch. Use the tutorial menu to design a bike with a mannequin positioned on it. The candidate is expected to learn about using all the tools in the environment which include using various brush strokes, line tool, curve tool, shapes, mirroring, manipulating and resizing objects, changing sketching hands on the controller and using the align tool.
+
+![GR](https://gist.github.com/user-attachments/assets/87fc73e7-478a-4854-9ab4-123cd02be94e)
