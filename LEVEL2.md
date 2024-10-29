@@ -63,17 +63,12 @@ A circuit when shorted can cause serious damage to the equipment. Create a circu
 Resources
 https://www.instructables.com/How-to-Make-Short-Circuit-Protection-Circuit/
 
-### Logic design
+### Colpitts Oscillator with Op-Amp
+Create a Colpitts oscillator circuit using an operational amplifier to produce a sinusoidal waveform. Understand the behavior of an oscillator circuit and the role of feedback in sustaining oscillations. Generate a frequency of oscillation around 1 kHz.
+Use LTspice for simulation
 
-Implement and design a full adder using 2x1 Multiplexers to generate sum and carry using open source circuit design software like CircuitVerse and document your implementation table
+### New Task
 
-Resource: https://circuitverse.org/
-
-### Filter Design
-
- Design a second order band pass filter using IC741 that amplifies the signal to roughly 1.5 times the original signal.Cutoff range between 4kHz and 10kHz. (Use LTspice)
-
- Resource: https://circuitverse.org/
 
  ## Complete the Simulink and Stateflow onRamp Course and get certified
  Matlab offers a Simulink and Matlab introductory course complete these courses to get a basic understanding of Matlab to implement in your projects
