@@ -55,17 +55,17 @@ Voltage multiplier using capacitor pumps and a 555 Timer IC.
 To do:
 Pump up 9V to 18V at first, then cascade the pump to get 27V.
 Use TinkerCad to design the required circuit
-Resources:
-https://www.youtube.com/results?search_query=voltage+multiplier.
+[Resources](https://www.youtube.com/results?search_query=voltage+multiplier)
+
 ### Create a circuit that provides short-circuit protection.
 A circuit when shorted can cause serious damage to the equipment. Create a circuit that provides the necessary protection.
 
-Resources
-https://www.instructables.com/How-to-Make-Short-Circuit-Protection-Circuit/
-
+[Resources](https://www.instructables.com/How-to-Make-Short-Circuit-Protection-Circuit/)
 ### Colpitts Oscillator with Op-Amp
 Create a Colpitts oscillator circuit using an operational amplifier to produce a sinusoidal waveform. Understand the behavior of an oscillator circuit and the role of feedback in sustaining oscillations. Generate a frequency of oscillation around 1 kHz.
-Use LTspice for simulation
+Use LTspice for simulation.
+
+[Resource](https://www.youtube.com/results?search_query=colpitts+oscillator)
 
 ### New Task
 
