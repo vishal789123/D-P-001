@@ -55,25 +55,22 @@ Voltage multiplier using capacitor pumps and a 555 Timer IC.
 To do:
 Pump up 9V to 18V at first, then cascade the pump to get 27V.
 Use TinkerCad to design the required circuit
-Resources:
-https://www.youtube.com/results?search_query=voltage+multiplier.
+[Resources](https://www.youtube.com/results?search_query=voltage+multiplier)
+
 ### Create a circuit that provides short-circuit protection.
 A circuit when shorted can cause serious damage to the equipment. Create a circuit that provides the necessary protection.
 
-Resources
-https://www.instructables.com/How-to-Make-Short-Circuit-Protection-Circuit/
+[Resources](https://www.instructables.com/How-to-Make-Short-Circuit-Protection-Circuit/)
+### Colpitts Chaos
+Create a Colpitts oscillator circuit using an operational amplifier(IC747) to produce a sinusoidal waveform. Understand the behavior of an oscillator circuit and the role of feedback in sustaining oscillations. Generate a frequency of oscillation around 1 kHz.
+Use LTspice for simulation.
 
-### Logic design
+[Resource](https://www.youtube.com/results?search_query=colpitts+oscillator)
 
-Implement and design a full adder using 2x1 Multiplexers to generate sum and carry using open source circuit design software like CircuitVerse and document your implementation table
+### The Great Adder Escapade
+Learn the basics of verilog and implement a 4 bit full adder by cascading 4 Full Adders, in the process do gate level modelling for each full adder. Write a testbench to simulate the same.
+Use Vivado Design suite for implementing this task.
 
-Resource: https://circuitverse.org/
-
-### Filter Design
-
- Design a second order band pass filter using IC741 that amplifies the signal to roughly 1.5 times the original signal.Cutoff range between 4kHz and 10kHz. (Use LTspice)
-
- Resource: https://circuitverse.org/
 
  ## Complete the Simulink and Stateflow onRamp Course and get certified
  Matlab offers a Simulink and Matlab introductory course complete these courses to get a basic understanding of Matlab to implement in your projects
