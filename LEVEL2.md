@@ -61,13 +61,13 @@ Use TinkerCad to design the required circuit
 A circuit when shorted can cause serious damage to the equipment. Create a circuit that provides the necessary protection.
 
 [Resources](https://www.instructables.com/How-to-Make-Short-Circuit-Protection-Circuit/)
-### Colpitts Oscillator with Op-Amp
-Create a Colpitts oscillator circuit using an operational amplifier to produce a sinusoidal waveform. Understand the behavior of an oscillator circuit and the role of feedback in sustaining oscillations. Generate a frequency of oscillation around 1 kHz.
+### Colpitts Chaos
+Create a Colpitts oscillator circuit using an operational amplifier(IC747) to produce a sinusoidal waveform. Understand the behavior of an oscillator circuit and the role of feedback in sustaining oscillations. Generate a frequency of oscillation around 1 kHz.
 Use LTspice for simulation.
 
 [Resource](https://www.youtube.com/results?search_query=colpitts+oscillator)
 
-### Basics of Verilog
+### The Great Adder Escapade
 Learn the basics of verilog and implement a 4 bit full adder by cascading 4 Full Adders, in the process do gate level modelling for each full adder. Write a testbench to simulate the same.
 Use Vivado Design suite for implementing this task.
 
