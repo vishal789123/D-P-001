@@ -72,9 +72,8 @@ Learn the basics of verilog and implement a 4 bit full adder by cascading 4 Full
 Use Vivado Design suite for implementing this task.
 
 Resources:
-- [Verilog](https://www.asic-world.com/verilog/veritut.html)
-- [Vivado](https://docs.amd.com/r/en-US/ug949-vivado-design-methodology/Vivado-Design-Suite-Tutorials)
-
+1. [Verilog](https://www.asic-world.com/verilog/veritut.html)
+2. [Vivado](https://docs.amd.com/r/en-US/ug949-vivado-design-methodology/Vivado-Design-Suite-Tutorials)
 
  ## Complete the Simulink and Stateflow onRamp Course and get certified
  Matlab offers a Simulink and Matlab introductory course complete these courses to get a basic understanding of Matlab to implement in your projects
