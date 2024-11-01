@@ -141,7 +141,7 @@ https://youtu.be/XPhKfwCguLg?si=Zmqt2h0k3ibwVIt7
 ## 6.Designing a parametric box
 Design a parametric box with threads and also design various lids with snap joints and slide joints.
       
-Assemble and animate them.The dimensions are 9*7*8 cm
+Assemble and animate them.The dimensions are 9*7*8 cm.
 
 Resource: 
 
