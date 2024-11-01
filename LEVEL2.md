@@ -71,8 +71,9 @@ Use LTspice for simulation.
 Learn the basics of verilog and implement a 4 bit full adder by cascading 4 Full Adders, in the process do gate level modelling for each full adder. Write a testbench to simulate the same.
 Use Vivado Design suite for implementing this task.
 
-Resources: [Verilog](https://www.asic-world.com/verilog/veritut.html)
-           [Vivado](https://docs.amd.com/r/en-US/ug949-vivado-design-methodology/Vivado-Design-Suite-Tutorials)
+Resources:
+- [Verilog](https://www.asic-world.com/verilog/veritut.html)
+- [Vivado](https://docs.amd.com/r/en-US/ug949-vivado-design-methodology/Vivado-Design-Suite-Tutorials)
 
 
  ## Complete the Simulink and Stateflow onRamp Course and get certified
