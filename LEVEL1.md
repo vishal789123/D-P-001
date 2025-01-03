@@ -1,11 +1,75 @@
 # LEVEL 1
+# Electronic Design
+
+## 1. **Engineer’s Swiss Army Knife**
+Create a Matlab account and complete the [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) course and obtain the certification.
+![MATLAB](https://gist.github.com/user-attachments/assets/d54955be-4776-4b04-8ed7-92392f3a65c1)
+	
+---
+## 2. **Cut, Pass, Repeat**  
+   - **Objective**: To learn about Band Pass Filters  
+   - **Task**: Design a second order band pass filter using IC747 that amplifies the signal to roughly 1.5 times the original signal.Cutoff range between 4kHz and 10kHz  
+   - **Platform**: LTSpice
+   ![BandPass](https://kistler.cdn.celum.cloud/SAPCommerce_FullSize_1200x1200/band-pass-filter.webp)
+---
+## 3. **SPICEy Code**  
+   - **Objective**: To learn SPICE code  
+   - **Task**: Write basic SPICE code for a MOS inverter, AND and OR Gates  
+   - **Platform**: LTSpice
+---
+## 4. **From Low to Woah!**  
+   - **Objective**: Voltage multiplier using capacitor pumps and a 555 Timer IC  
+   - **Task**: Pump up 9V to 18V at first, then cascade the pump to get 27V.  
+   - **Platform:** LTSpice
+    
+---
+## 5. **The Power Shuffle: Buck-Boost Edition**  
+- **Objective:** To learn about the DC-DC Converters  
+    - **Task:** Learn about Boost and Buck converters and perform the following:
+	    - Build a 1.5V to 5V DC-DC Boost converter
+	    - Build a 12V to 5V DC-DC Buck converter
+    - **Platform**: LTSpice
+    - [Resource](https://www.circuitbasics.com/what-are-dc-dc-converters/)
+    
+---
+## 6. **4 Bits to Rule Them All**
+Your task is to design and implement a **4-bit Arithmetic** Logic Unit (ALU) in [CircuitVerse](https://circuitverse.org/). The ALU should perform the following operations: **addition, subtraction (using 2’s complement), and logical operations (AND, OR, XOR)**. You must also design a **control unit** to select the desired operation based on input signals and display the result along with any carry/overflow flags when applicable.
+
+Start by creating a 4-bit adder using basic logic gates, ensuring correct handling of carry bits. Extend this design to support subtraction by using 2’s complement, and then implement the logical functions (AND, OR, XOR) with the same 4-bit inputs. The ALU must be efficient in terms of gate usage and scalable for future expansion. **Bonus challenge:** Add a feature to invert all bits of a 4-bit input (negation).
+![4 bit comp](https://upload.wikimedia.org/wikipedia/commons/d/d7/SN74S181N.JPG)
+	**Resources**
+	1. [Digital Logic Gates](http://www.youtube.com/watch?v=JQBRzsPhw2w)
+	2. [Full Adder Circuit](http://www.youtube.com/watch?v=ecn-8iGDRSo)
+	3. [How to Create a 4-Bit Adder](http://www.youtube.com/watch?v=NO7Gt8IDSGA)
+	4. [2's Complement for Subtraction](http://www.youtube.com/watch?v=vfY7bN_3VKw)
+	5. [ALU Design and Implementation](http://www.youtube.com/watch?v=h8PAobl4xUk)
+	6. [Control Unit Basics](https://www.geeksforgeeks.org/introduction-of-control-unit-and-its-design/)    
+	7. [Building a Basic ALU](https://www.youtube.com/watch?v=dYZ-Hwbcnq4)
+
+---
+## 7. **Colpitts on the Board!**:
+- **Objective**: Learn basics of PCB Designing
+	- **Task:**  Create a PCB for a simple Colpitts Oscillator. Learn the interface of KiCad thoroughly 
+	- **Platform**: **KiCad**
+	Resources:
+	- [KiCad](https://www.youtube.com/watch?v=l9b_6WLemmg)
+	- [Colpitts Oscillator](https://www.youtube.com/watch?v=1fgw-ONlAcc)
+![Colpitts](https://industries.winstonind.com/wp-content/uploads/2024/04/pcb-design.jpg)
+	
+---
+## 8. **Convolution Countdown**
+- **Objective:** To theoretically learn basics of DSP
+	  - **Task**: Learn basics of DSP including an introduction to signals, systems and mathematical transforms such as Z-Transform and Fourier Transform. Perform a simple Linear Convolution in MATLAB for two 4 sample discrete signals.
+	  - **Platform**: MATLAB
+![DSP](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Fourier.jpg?raw=true)  
+---
+# Mechanical Design
 ## Introductory Module
 ### Fundamentals of CAD
 To successfully complete the other tasks at hand, it is essential that you have a good understanding of the concepts and ideas presented in the provided PDF document. We strongly recommend that you read the document thoroughly and make sure that you have a solid grasp of the information it contains before proceeding with the other tasks.
 https://drive.google.com/file/d/1_AMMsWewL0sAlRoD_eP7sz8Rmb6gJMfO/view?usp=sharing
 
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/3c298f0b-356b-40db-9cec-7a15caaf17d7)
-# M E C H A N I C A L
 ### Apply for Autodesk Educational licence
 https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual 
 
@@ -153,44 +217,6 @@ https://youtu.be/FeCzb8eVsRw?si=gHwdmpaGBs9kL820
 
 https://m.youtube.com/watch?v=YCUkFGI3RZI&feature=youtu.be
 
-![parametric boxes](https://gist.github.com/user-attachments/assets/fec87302-8673-452d-9738-af3c831439f4)
-
 https://hub.uvcemarvel.in/article/e879cf6c-41ef-44b8-a67f-27248ebe4834 
 
-# E L E C T R O N I C S
-### 1.Make basic gates using TTL logic.
-Make basic AND, OR designs using NPN transistors, using TinkerCAD
-Resource:
-https://www.youtube.com/watch?v=OWlD7gL9gS0&t=524s
-
-### 2.Driving an N-channel MOSFET
-An N-Channel MOSFET is a type of MOSFET in which the channel of the MOSFET is composed of a majority of electrons as current carriers. When the MOSFET is activated and is on, the majority of the current flowing are electrons moving through the channel. 
-Use TinkerCAD to get the basic design.
-Resources:http://www.learningaboutelectronics.com/Articles/N-Channel-MOSFETs
-
-### 3.LOGIC DESIGN
-Implement and design a full adder using 2x1 Multiplexers to generate sum and carry using open source circuit design software like CircuitVerse and document your implementation table
-Link : https://circuitverse.org/
-
-### 4.FILTER DESIGN
-Design a second order band pass filter using IC741 that amplifies the signal to roughly 1.5 times the original signal.Cutoff range between 4kHz and 10kHz. (Use LTspice)
-
-
-### 5.Matlab OnRamp
-Create a Matlab account and complete the Matlab on Ramp course and obtain the certification.
-![MATLAB](https://gist.github.com/user-attachments/assets/d54955be-4776-4b04-8ed7-92392f3a65c1)
-
-### 6.Design and Implement a 4-bit ALU
-
-Your task is to design and implement a **4-bit Arithmetic** Logic Unit (ALU) in [CircuitVerse](https://circuitverse.org/). The ALU should perform the following operations: **addition, subtraction (using 2’s complement), and logical operations (AND, OR, XOR)**. You must also design a **control unit** to select the desired operation based on input signals and display the result along with any carry/overflow flags when applicable.
-
-Start by creating a 4-bit adder using basic logic gates, ensuring correct handling of carry bits. Extend this design to support subtraction by using 2’s complement, and then implement the logical functions (AND, OR, XOR) with the same 4-bit inputs. The ALU must be efficient in terms of gate usage and scalable for future expansion. **Bonus challenge:** Add a feature to invert all bits of a 4-bit input (negation).
-
-#### Resources:
-1. [Digital Logic Gates](http://www.youtube.com/watch?v=JQBRzsPhw2w)
-2. [Full Adder Circuit](http://www.youtube.com/watch?v=ecn-8iGDRSo)
-3. [How to Create a 4-Bit Adder](http://www.youtube.com/watch?v=NO7Gt8IDSGA)
-4. [2's Complement for Subtraction](http://www.youtube.com/watch?v=vfY7bN_3VKw)
-5. [ALU Design and Implementation](http://www.youtube.com/watch?v=h8PAobl4xUk)
-6. [Control Unit Basics](https://www.geeksforgeeks.org/introduction-of-control-unit-and-its-design/)    
-7. [Building a Basic ALU](https://www.youtube.com/watch?v=dYZ-Hwbcnq4)
+![parametric boxes](https://gist.github.com/user-attachments/assets/fec87302-8673-452d-9738-af3c831439f4)
