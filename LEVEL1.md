@@ -33,18 +33,21 @@ Create a Matlab account and complete the [MATLAB Onramp](https://matlabacademy.m
     
 ---
 ## 6. **4 Bits to Rule Them All**
+
 Your task is to design and implement a **4-bit Arithmetic** Logic Unit (ALU) in [CircuitVerse](https://circuitverse.org/). The ALU should perform the following operations: **addition, subtraction (using 2’s complement), and logical operations (AND, OR, XOR)**. You must also design a **control unit** to select the desired operation based on input signals and display the result along with any carry/overflow flags when applicable.
 
 Start by creating a 4-bit adder using basic logic gates, ensuring correct handling of carry bits. Extend this design to support subtraction by using 2’s complement, and then implement the logical functions (AND, OR, XOR) with the same 4-bit inputs. The ALU must be efficient in terms of gate usage and scalable for future expansion. **Bonus challenge:** Add a feature to invert all bits of a 4-bit input (negation).
+
 ![4 bit comp](https://upload.wikimedia.org/wikipedia/commons/d/d7/SN74S181N.JPG)
-	**Resources:**
-	1. [Digital Logic Gates](http://www.youtube.com/watch?v=JQBRzsPhw2w)
-	2. [Full Adder Circuit](http://www.youtube.com/watch?v=ecn-8iGDRSo)
-	3. [How to Create a 4-Bit Adder](http://www.youtube.com/watch?v=NO7Gt8IDSGA)
-	4. [2's Complement for Subtraction](http://www.youtube.com/watch?v=vfY7bN_3VKw)
-	5. [ALU Design and Implementation](http://www.youtube.com/watch?v=h8PAobl4xUk)
-	6. [Control Unit Basics](https://www.geeksforgeeks.org/introduction-of-control-unit-and-its-design/)    
-	7. [Building a Basic ALU](https://www.youtube.com/watch?v=dYZ-Hwbcnq4)
+
+#### Resources:
+1. [Digital Logic Gates](http://www.youtube.com/watch?v=JQBRzsPhw2w)
+2. [Full Adder Circuit](http://www.youtube.com/watch?v=ecn-8iGDRSo)
+3. [How to Create a 4-Bit Adder](http://www.youtube.com/watch?v=NO7Gt8IDSGA)
+4. [2's Complement for Subtraction](http://www.youtube.com/watch?v=vfY7bN_3VKw)
+5. [ALU Design and Implementation](http://www.youtube.com/watch?v=h8PAobl4xUk)
+6. [Control Unit Basics](https://www.geeksforgeeks.org/introduction-of-control-unit-and-its-design/)    
+7. [Building a Basic ALU](https://www.youtube.com/watch?v=dYZ-Hwbcnq4)
 
 ---
 ## 7. **Colpitts on the Board!**:
