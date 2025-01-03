@@ -37,7 +37,7 @@ Your task is to design and implement a **4-bit Arithmetic** Logic Unit (ALU) in 
 
 Start by creating a 4-bit adder using basic logic gates, ensuring correct handling of carry bits. Extend this design to support subtraction by using 2’s complement, and then implement the logical functions (AND, OR, XOR) with the same 4-bit inputs. The ALU must be efficient in terms of gate usage and scalable for future expansion. **Bonus challenge:** Add a feature to invert all bits of a 4-bit input (negation).
 ![4 bit comp](https://upload.wikimedia.org/wikipedia/commons/d/d7/SN74S181N.JPG)
-	**Resources**
+	**Resources:**
 	1. [Digital Logic Gates](http://www.youtube.com/watch?v=JQBRzsPhw2w)
 	2. [Full Adder Circuit](http://www.youtube.com/watch?v=ecn-8iGDRSo)
 	3. [How to Create a 4-Bit Adder](http://www.youtube.com/watch?v=NO7Gt8IDSGA)
@@ -59,8 +59,8 @@ Start by creating a 4-bit adder using basic logic gates, ensuring correct handli
 ---
 ## 8. **Convolution Countdown**
 - **Objective:** To theoretically learn basics of DSP
-	  - **Task**: Learn basics of DSP including an introduction to signals, systems and mathematical transforms such as Z-Transform and Fourier Transform. Perform a simple Linear Convolution in MATLAB for two 4 sample discrete signals.
-	  - **Platform**: MATLAB
+- **Task**: Learn basics of DSP including an introduction to signals, systems and mathematical transforms such as Z-Transform and Fourier Transform. Perform a simple Linear Convolution in MATLAB for two 4 sample discrete signals.
+-  **Platform**: MATLAB
 ![DSP](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Fourier.jpg?raw=true)  
 ---
 # Mechanical Design
