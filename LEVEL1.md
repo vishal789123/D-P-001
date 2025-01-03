@@ -54,9 +54,9 @@ Start by creating a 4-bit adder using basic logic gates, ensuring correct handli
 - **Objective**: Learn basics of PCB Designing
 	- **Task:**  Create a PCB for a simple Colpitts Oscillator. Learn the interface of KiCad thoroughly 
 	- **Platform**: **KiCad**
-	Resources:
-	- [KiCad](https://www.youtube.com/watch?v=l9b_6WLemmg)
-	- [Colpitts Oscillator](https://www.youtube.com/watch?v=1fgw-ONlAcc)
+#### Resources:
+1. [Digital Logic Gates](http://www.youtube.com/watch?v=JQBRzsPhw2w)
+2. [Full Adder Circuit](http://www.youtube.com/watch?v=ecn-8iGDRSo)
 ![Colpitts](https://industries.winstonind.com/wp-content/uploads/2024/04/pcb-design.jpg)
 	
 ---
