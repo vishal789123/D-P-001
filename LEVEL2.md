@@ -55,11 +55,12 @@ https://youtu.be/0F4nBoS4b58?si=RJjjqVGcwRv4-zGU
 ![lego](https://gist.github.com/user-attachments/assets/0f5c15fa-0860-4ac1-b97a-954
 
 ## Geometric Dimensioning and Tolerancing (GD&T)
-### Apply GD&T to an Industrial Component Using Fusion 360
 
-Use Fusion 360 to apply GD&T to a real-world industrial component, illustrating key concepts in a detailed 2D drawing.
+Apply GD&T to an Industrial Component Using Fusion 360 Use Fusion 360 to apply GD&T to a real-world industrial component, illustrating key concepts in a detailed 2D drawing.
+
 ![gdt](https://github.com/user-attachments/assets/0f1257e1-9ba9-4e5d-8e97-6ed17e4e9a0d)
-=======
+
+
 ## Introduction to laser engraving
 Go through the resource and acquire a sound understanding of laser engraving process and it's use cases. Attend an offline session on the engraver available in the mechanical block. Design a keychain 7*5 cm in dimension with different insignia of the Marvel lab logo. Furnish these keychains to the lab.
 
