@@ -54,8 +54,8 @@ https://www.youtube.com/watch?v=b5RQJEL9_Hk
 https://youtu.be/0F4nBoS4b58?si=RJjjqVGcwRv4-zGU
 ![lego](https://gist.github.com/user-attachments/assets/0f5c15fa-0860-4ac1-b97a-954
 
-##Geometric Dimensioning and Tolerancing (GD&T)
-###Apply GD&T to an Industrial Component Using Fusion 360
+## Geometric Dimensioning and Tolerancing (GD&T)
+### Apply GD&T to an Industrial Component Using Fusion 360
 
 Use Fusion 360 to apply GD&T to a real-world industrial component, illustrating key concepts in a detailed 2D drawing.
 ![gdt](https://github.com/user-attachments/assets/0f1257e1-9ba9-4e5d-8e97-6ed17e4e9a0d)
