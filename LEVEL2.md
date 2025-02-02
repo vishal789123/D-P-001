@@ -29,7 +29,7 @@ https://all3dp.com/2/fusion-360-generative-design-tutorial/
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/7154cf99-c92e-4328-ba7d-8df21d3dca08)
 ![generative design](https://gist.github.com/user-attachments/assets/05bbe524-15b8-4c0e-885e-d8720d12b3fc)
 ##  Piston and crankshaft mechanism
-![Piston](https://github.com/user-attachments/assets/13bf00de-7a80-4382-9568-9ddae5d58829)
+![piston1](https://github.com/user-attachments/assets/591293c2-f4a4-4db6-b095-3ff3a4302fc0)
 
 
 Design, manufacture, and analyze a piston and crankshaft mechanism. First, design each component (crankshaft, connecting rod, piston, etc.) in Fusion 360° software, ensuring proper dimensions. Assemble the components, creating a functional mechanism within the CAD environment, and perform a motion simulation to verify its operation. 
@@ -52,14 +52,18 @@ https://www.youtube.com/watch?v=8do5BcIYsxQ
 https://www.youtube.com/watch?v=b5RQJEL9_Hk
 
 https://youtu.be/0F4nBoS4b58?si=RJjjqVGcwRv4-zGU
-![lego](https://gist.github.com/user-attachments/assets/0f5c15fa-0860-4ac1-b97a-954a2ebdda64)
-
+![lego](https://gist.github.com/user-attachments/assets/0f5c15fa-0860-4ac1-b97a-954
 
 ##Geometric Dimensioning and Tolerancing (GD&T)
 ###Apply GD&T to an Industrial Component Using Fusion 360
 
 Use Fusion 360 to apply GD&T to a real-world industrial component, illustrating key concepts in a detailed 2D drawing.
 ![gdt](https://github.com/user-attachments/assets/0f1257e1-9ba9-4e5d-8e97-6ed17e4e9a0d)
+=======
+## Introduction to laser engraving
+Go through the resource and acquire a sound understanding of laser engraving process and it's use cases. Attend an offline session on the engraver available in the mechanical block. Design a keychain 7*5 cm in dimension with different insignia of the Marvel lab logo. Furnish these keychains to the lab.
+
+![Screenshot 2025-02-03 011838](https://github.com/user-attachments/assets/1f20435f-67c3-440f-8ef3-db7c78f8ce6d)
 
 
 ## E L E C T R O N I C S
