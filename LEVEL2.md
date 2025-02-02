@@ -29,12 +29,17 @@ https://all3dp.com/2/fusion-360-generative-design-tutorial/
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/7154cf99-c92e-4328-ba7d-8df21d3dca08)
 ![generative design](https://gist.github.com/user-attachments/assets/05bbe524-15b8-4c0e-885e-d8720d12b3fc)
 ##  Piston and crankshaft mechanism
+![piston1](https://github.com/user-attachments/assets/9eb64724-acb4-4a5e-a1fb-0fb16bb582d9)
+
 Design, manufacture, and analyze a piston and crankshaft mechanism. First, design each component (crankshaft, connecting rod, piston, etc.) in Fusion 360° software, ensuring proper dimensions. Assemble the components, creating a functional mechanism within the CAD environment, and perform a motion simulation to verify its operation. 
 Generate G-code/NC code using CAM feature in fusion 360° for piston and crankshaft.
 
 Reference:
+ 
  https://youtu.be/PuWRsVyU3PM?si=XggSZHkyO-syo8RL 
+
 https://youtu.be/wsSWVtjp8c0?si=3QW2ILN0oXjB1XXL
+
 https://youtu.be/Do_C_NLH5sw?si=Z5b9Fa5h0vhnUJ7H 
 
 ### Animation and rendering
