@@ -28,15 +28,14 @@ https://all3dp.com/2/fusion-360-generative-design-tutorial/
 8.[Tutorial for Generative design in Fusion 360](https://www.youtube.com/watch?v=sps-OR60fVU&list=PLEzzQIuBvBkr7tNcgERS9IIxLSPbb8A6M)
 ![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/7154cf99-c92e-4328-ba7d-8df21d3dca08)
 ![generative design](https://gist.github.com/user-attachments/assets/05bbe524-15b8-4c0e-885e-d8720d12b3fc)
-## Prototyping
-### Sourcing & Materials Selection
-Create a list of inventory required to make an electric bicycle
-Parameters to keep in mind
-Max weight`= 90kg
-Max speed	= 40kmph
-Max range	= 50km per charge
-Furnish a detailed report for the same.
-![image](https://github.com/UVCE-Marvel/D-P-001/assets/105961270/50707c72-9377-43ef-813b-d4f048d5a13d)
+##  Piston and crankshaft mechanism
+Design, manufacture, and analyze a piston and crankshaft mechanism. First, design each component (crankshaft, connecting rod, piston, etc.) in Fusion 360° software, ensuring proper dimensions. Assemble the components, creating a functional mechanism within the CAD environment, and perform a motion simulation to verify its operation. 
+Generate G-code/NC code using CAM feature in fusion 360° for piston and crankshaft.
+
+Reference:
+ https://youtu.be/PuWRsVyU3PM?si=XggSZHkyO-syo8RL 
+https://youtu.be/wsSWVtjp8c0?si=3QW2ILN0oXjB1XXL
+https://youtu.be/Do_C_NLH5sw?si=Z5b9Fa5h0vhnUJ7H 
 
 ### Animation and rendering
   Design a Lego structure in Fusion 360 and use motion studies to animate the entire assembly. Use rendering option in fusion 360 to simulate various environments
